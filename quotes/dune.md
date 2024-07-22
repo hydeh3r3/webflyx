@@ -3,5 +3,4 @@
 * "An Animal Caught In A Trap Will Gnaw Off Its Own Leg To Escape. What Will You Do?"
 * "When Is A Gift Not A Gift?"
 * "May thy knife chip and shatter"
-* 'The spice must flow.'
-* 'Fear is the mind-killer.'
+* "The spice must flow."
